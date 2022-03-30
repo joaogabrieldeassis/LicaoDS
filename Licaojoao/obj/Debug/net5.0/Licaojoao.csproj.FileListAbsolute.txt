@@ -1,0 +1,16 @@
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.exe
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.deps.json
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.runtimeconfig.json
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.runtimeconfig.dev.json
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.dll
+C:\licaods\licaojoao\bin\Debug\net5.0\ref\Licaojoao.dll
+C:\licaods\licaojoao\bin\Debug\net5.0\Licaojoao.pdb
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.csproj.AssemblyReference.cache
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.GeneratedMSBuildEditorConfig.editorconfig
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.AssemblyInfoInputs.cache
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.AssemblyInfo.cs
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.csproj.CoreCompileInputs.cache
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.dll
+C:\licaods\licaojoao\obj\Debug\net5.0\ref\Licaojoao.dll
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.pdb
+C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.genruntimeconfig.cache
