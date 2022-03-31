@@ -4,7 +4,7 @@ namespace Licaojoao
 {
     class Exercicio28
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
           
             double numbers = 100;
