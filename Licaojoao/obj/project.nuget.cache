@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Lz+MNUElATz4MiTpvLURbYDtGyjInRHi3NKF39Ua9KNM6aDT/JxZUTvqT5GBimCCJ7isp5bHR8wm+ydWf1+pQg==",
+  "dgSpecHash": "azKBCm1WWC/N8auq1Q+q2TxLrUK+Nv5AcXO53fO3mfP+REDFtFpH1ihSdA5+YRhlCGkkCCUjC9WEqfEbqO9Rog==",
   "success": true,
-  "projectFilePath": "C:\\licaods\\licaojoao\\Licaojoao.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\LicaoDs\\licaojoao\\Licaojoao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tati\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tati\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tati\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tati\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
