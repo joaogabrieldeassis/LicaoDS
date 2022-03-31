@@ -4,7 +4,7 @@ namespace Licaojoao
 {
     class Exercicio29
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             
                for (int i = 0; i <= 2000; i++)
