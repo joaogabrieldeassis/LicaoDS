@@ -13,4 +13,4 @@ C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.dll
 C:\licaods\licaojoao\obj\Debug\net5.0\ref\Licaojoao.dll
 C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.pdb
 C:\licaods\licaojoao\obj\Debug\net5.0\Licaojoao.genruntimeconfig.cache
-C:\licaods\licaojoao\bin\Debug\net5.0\ref\Licaojoao.dll
+C:\licaods\licaojoao\obj\Debug\net5.0\refint\Licaojoao.dll
