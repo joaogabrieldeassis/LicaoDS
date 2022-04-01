@@ -4,7 +4,7 @@ namespace Licaojoao
 {
     class Exercicio32
     {
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             int number = 6;
             int recebeNumber = 0;

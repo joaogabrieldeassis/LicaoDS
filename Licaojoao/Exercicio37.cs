@@ -3,7 +3,7 @@ namespace LICAOJOAO
 {
     class Exercicio38
     {
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
             int oneNumber, twoNumber, receiveNumber, receiveNumberOperation = 0;
             char receiveCaracter;
