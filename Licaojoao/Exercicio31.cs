@@ -1,9 +1,17 @@
- while (true)
-            {
+using System;
+namespace LICAOJOAO
+{
+    class Exercicio31
+    {
+        static void Main6()
+        {
                 int receiveNumberPar = 0;
                 int receiveNumberImpar = 0;
                 int fristNumber = 0;
                 char receive;
+            while (true)
+            {
+
 
                 Console.WriteLine("Digite o  primeiro valor");
                 fristNumber = Convert.ToInt32(Console.ReadLine());
@@ -22,15 +30,18 @@
                     }
                 }
 
-                Console.WriteLine("Deja digitar outro valor ?\n S para sim ou N para n„o :  ");
+                Console.WriteLine("Deja digitar outro valor ?\n S para sim ou N para n√£o :  ");
                 receive = Convert.ToChar(Console.ReadLine());
 
                 if (receive == 'n' || receive == 'N')
                 {
 
-                    Console.WriteLine("A soma dos seus n˙meros pares s„o {0}", receiveNumberPar);
-                    Console.WriteLine("A soma dos seus n˙meros impares s„o {0}", receiveNumberImpar);
+                    Console.WriteLine("A soma dos seus n√∫meros pares s√£o {0}", receiveNumberPar);
+                    Console.WriteLine("A soma dos seus n√∫meros impares s√£o {0}", receiveNumberImpar);
                     break;
                 }
 
             }
+        }
+    }
+}

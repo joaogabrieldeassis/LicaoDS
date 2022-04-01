@@ -7,7 +7,7 @@ namespace Licaojoao
         static void Main3(string[] args)
         {
           
-            double numbers = 100;
+           
             for (int i = 100; i <= 200 ; i++)
             {
                 if ((i  % 2)!=0)

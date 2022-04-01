@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LicaoDs\\licaojoao\\Licaojoao.csproj": {}
+    "C:\\licaods\\licaojoao\\Licaojoao.csproj": {}
   },
   "projects": {
-    "C:\\LicaoDs\\licaojoao\\Licaojoao.csproj": {
+    "C:\\licaods\\licaojoao\\Licaojoao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LicaoDs\\licaojoao\\Licaojoao.csproj",
+        "projectUniqueName": "C:\\licaods\\licaojoao\\Licaojoao.csproj",
         "projectName": "Licaojoao",
-        "projectPath": "C:\\LicaoDs\\licaojoao\\Licaojoao.csproj",
-        "packagesPath": "C:\\Users\\Tati\\.nuget\\packages\\",
-        "outputPath": "C:\\LicaoDs\\licaojoao\\obj\\",
+        "projectPath": "C:\\licaods\\licaojoao\\Licaojoao.csproj",
+        "packagesPath": "C:\\Users\\TEMP.ETEHORT.031\\.nuget\\packages\\",
+        "outputPath": "C:\\licaods\\licaojoao\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tati\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TEMP.ETEHORT.031\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -49,30 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.15, 5.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
