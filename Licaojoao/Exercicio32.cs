@@ -4,25 +4,32 @@ namespace Licaojoao
 {
     class Exercicio32
     {
-        static void Main7(string[] args)
+        static void Main(string[] args)
         {
-            int number = 6;
+            int number = 0;
             int recebeNumber = 0;
             int somaQuadrados = 0;
-            Console.WriteLine("Digite um número de 0 a 10");
-            //           number = Convert.ToInt32(Console.ReadLine());
-            if (number >= 0 && number <= 10)
-            {
-                for (number = number; number <= 20; number++)
+            int contador = 0;
+            
+            
+            
+                while (contador<20)
                 {
+                    if (number >= 0 && number <= 10)
+                    {
+                    Console.WriteLine("Digite um número de 0 a 10");
+                    number = Convert.ToInt32(Console.ReadLine());
                     if (number % 2 != 0)
                     {
-                        recebeNumber = number * 2;
+                        recebeNumber = number * number;
+                         contador ++;
+                        somaQuadrados += recebeNumber;
+                    }
                     }
                 }
-                somaQuadrados = recebeNumber * recebeNumber;
-                Console.WriteLine("");
-            }
+               
+                Console.WriteLine("A soma dos quadrados é {0}", somaQuadrados);
+            
         }
     }
 }
